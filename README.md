@@ -4,7 +4,7 @@ Healthy Minds is a site that is dedicated to offering accessible, beginner-frien
 
 Healthy Minds is designed to be a safe, welcoming space for users who may be new to exploring mental health topics. Our aim is to provide foundational knowledge on mental health topics in a supportive, organised layout.
 
-![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive Mockup](Documentation/responsive.png)
 
 ## Key Features
 
@@ -40,3 +40,15 @@ Bootstrap: Adds responsive design elements, ensuring a user-friendly experience 
 ![Signs and Symptons](/Documentation/signs-and-symptons.png)
 ![Signs and Symptons - Mobile](/Documentation/s-s-mobile.png)
 ![Signs and Symptons - Mobile-Expanded](/Documentation/s-s-mobile-expanded.png)
+
+- **Quotes section**
+
+  - This section provides a carousel of random uplifting quotes that the user can use to cheer themselves up and feel supported
+
+![Inspiration](/Documentation/inspo.png)
+
+- **External links section**
+
+  - This section provides the user with a number of websites they can visit for help and information. The cards provide a brief description of the organisation and a button that opens the website in a new tab.
+
+![Links](/Documentation/link-grid.png)

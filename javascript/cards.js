@@ -20,16 +20,9 @@ function swapContent() {
       smallCard.innerHTML = tempContent;
       largeCard.scrollIntoView({
         behavior: "smooth",
-        block: "center",
+        block: "start",
         inline: "nearest",
       });
-
-      setTimeout(() => {
-        window.scrollBy({
-          top: -50, // Adjust this value to add more or less space
-          behavior: "smooth",
-        });
-      }, 500);
     });
   } else {
     const cardList = smallCard.querySelector(".card--list");

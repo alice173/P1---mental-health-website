@@ -90,6 +90,15 @@
   --activeColour: var(--pink);
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+html {
+  scroll-padding: var(--nav-height);
+}
 /* Reset */
 
 /* Box sizing rules */

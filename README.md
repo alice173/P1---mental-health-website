@@ -17,6 +17,14 @@ Healthy Minds is designed to be a safe, welcoming space for users who may be new
 HTML,CSS and Javascript: Provides the backbone of the site’s structure and design.
 Bootstrap: Adds responsive design elements, ensuring a user-friendly experience across various devices and screen sizes.
 
+## User Stories
+
+- As a first time user with mental health difficulties I want to visit a welcoming, calm website that is easy to navigate
+- As a user, I want to find clear signs and symptoms of common mental health conditions so that I can better recognise them in myself or others.
+- As a first time user with mental health difficulties I want to visit a welcoming, calm website that is easy to navigate
+- As a user I want a list of links to external resources from trusted sources so that I can read more or seek help
+- As a user I want to access a section with uplifting quotes so that I can get a quick dose of motivation and positivity
+
 ## Features
 
 - **Navigation Bar**

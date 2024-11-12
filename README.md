@@ -60,3 +60,34 @@ Bootstrap: Adds responsive design elements, ensuring a user-friendly experience 
   - This section provides the user with a number of websites they can visit for help and information. The cards provide a brief description of the organisation and a button that opens the website in a new tab.
 
 ![Links](/Documentation/link-grid.png)
+
+## Credits
+
+### Content
+
+- The text for the Home page was produced by ChatGPT after a number of prompts
+- The icons were taken from [Google Fonts](https://fonts.google.com/icons)
+
+### Media
+
+- The images used on the site are from [Unsplash](https://unsplash.com/)
+
+### Other
+
+- [Tiny PNG](https://tinypng.com/) to reduce image file sizes
+- [Realtime colours](https://www.realtimecolors.com/) for experimenting with colour schemes
+- [Fluid Type Scale](https://www.fluid-type-scale.com/)
+- [CSS reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+
+## W3C Validator Testing
+
+- HTML
+  - W3C returned errors for trailing slashes added by the prettier formatting
+- CSS
+
+  - Some CSS errors found due to the use of custom properties
+
+  ### Unfixed Bugs
+
+  - It is only possible to click on cards to expand once.
+  - Javascript slows down site

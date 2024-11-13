@@ -7,6 +7,7 @@
   --beige-light: 64 60 95;
   --black: 132 18 23;
   --darkpink: color-mix(in hsl, hsl(var(--pink)), black 50%);
+  --darkgreen: hsl(64 60 5);
 
   /* colour intentions */
   --background: linear-gradient(
@@ -762,4 +763,22 @@ nav {
 
 body > * {
   overflow: hidden;
+}
+
+footer {
+  background: var(--darkgreen);
+  padding-block: var(--space-md);
+  text-align: center;
+  color: hsl(var(--pink));
+}
+
+.copyright {
+  font-size: 14px;
+  margin-block-start: 1rem;
+}
+
+.icon-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-sm);
 }

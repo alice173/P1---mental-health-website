@@ -64,3 +64,10 @@ modeToggle.addEventListener("click", () => {
     modeToggle.setAttribute("aria-label", "change to dark theme");
   }
 });
+
+//copyright
+
+document.querySelector(".copyright").innerText +=
+  " " + new Date().getFullYear();
+
+

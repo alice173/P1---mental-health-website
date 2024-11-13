@@ -90,4 +90,5 @@ Bootstrap: Adds responsive design elements, ensuring a user-friendly experience 
   ### Unfixed Bugs
 
   - It is only possible to click on cards to expand once.
-  - Javascript slows down site
+  - Site performance is not great - while images have been compressed it may be necessary to use smaller sizes/the picture element. - minify javascript
+    ![Lighthouse](/Documentation/lighthouse)
